@@ -12,7 +12,7 @@ public class SecureTitle {
      * @param title name of the record
      */
     public SecureTitle(String title){
-        //Temporary unencrypted storage
+        //NOTE the encryption part has yet to be implemented
         this.title = title;
     }
 
@@ -21,7 +21,7 @@ public class SecureTitle {
      * @return
      */
     public String getTitle(){
-        //Temporary unencrypted storage
+        //NOTE the encryption part has yet to be implemented
         return this.title;
     }
 }
