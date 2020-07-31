@@ -9,7 +9,7 @@ public class SecureTitle {
 
     /**
      * CONSTRUCTOR, sets title
-     * @param title name of the record
+     * @param title name of the record, in plaintext
      */
     public SecureTitle(String title){
         //NOTE the encryption part has yet to be implemented

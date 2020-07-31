@@ -7,8 +7,8 @@ public class Password {
     private String pass;
 
     /**
-     * CONSTRUCTOR, set the encrypted password
-     * @param pass  the password to be encrypted
+     * CONSTRUCTOR, set the password
+     * @param pass  the password to be encrypted, in plaintext
      */
     public Password(String pass){
         //NOTE the encryption part has yet to be implemented
